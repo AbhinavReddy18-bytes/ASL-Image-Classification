@@ -1,7 +1,7 @@
 <h1 align='center'> ASL Image Classification Project</h1>
 <br />
 <p align="center">
-  <img src="Images/ASL Logo.png" width="350" height="300">
+  <img src="images/ASL Logo.png" width="350" height="300">
 </p>
 <br />
 
