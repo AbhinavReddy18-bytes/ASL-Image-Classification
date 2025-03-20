@@ -61,7 +61,7 @@ Instructions for setting up and running the model are as follows:
 ## Installation
  Clone the repo
    ```sh
-   gh repo clone UF-FundMachineLearning-Fall23/final-project-code-report-og-hungry-cheetah
+   gh repo clone AbhinavReddy18-bytes/ASL-Image-Classification
    ```
 <br />
 
