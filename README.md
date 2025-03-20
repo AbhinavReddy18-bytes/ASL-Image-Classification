@@ -29,7 +29,7 @@ The result of predicted and actual values will be in form of:
 <br />
 
 <a href="images/Screenshot (75).png">
-  <img src="Images/Screenshot (75).png">
+  <img src="images/Screenshot (75).png">
 </a>
 and so on...
 <br />
