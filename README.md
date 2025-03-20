@@ -18,8 +18,8 @@ The model achieved a promising accuracy rate, indicating its capability to corre
 
 <br />
 
-<a href="https://github.com/UF-FundMachineLearning-Fall23/final-project-code-report-og-hungry-cheetah/blob/main/Images/Screenshot%20(74).png">
-  <img src="Images/Screenshot (74).png">
+<a href="images/Screenshot (74).png">
+  <img src="images/Screenshot (74).png">
 </a>
 
 <br />
@@ -28,7 +28,7 @@ The result of predicted and actual values will be in form of:
 
 <br />
 
-<a href="https://github.com/UF-FundMachineLearning-Fall23/final-project-code-report-og-hungry-cheetah/blob/main/Images/Screenshot%20(75).png">
+<a href="images/Screenshot (75).png">
   <img src="Images/Screenshot (75).png">
 </a>
 and so on...
