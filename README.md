@@ -81,10 +81,7 @@ Distributed under the MIT License. See `License.txt` for more information
 
 <br />
 
-## Authors
-<address>
-Varshith Reddy Ganji <a href="mailto:varshithreddyganji852@gmail.com">Ping me here!!</a>.<br> 
-</address>
+## Author
 <address>
 Abhinav Reddy Pannala <a href="mailto:pannalaabhinav02@gmail.com">Ping me here!!</a>.<br> 
 </address>
